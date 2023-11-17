@@ -8,5 +8,3 @@ Escribe una ecuación.
   <summary>Respuesta</summary>
   $$x^2+y^2=\tan(x)$$
 </details>
-
-![Poster_sacnas.pdf](https://github.com/portna/MATE-6675/files/13393686/Poster_sacnas.pdf)
